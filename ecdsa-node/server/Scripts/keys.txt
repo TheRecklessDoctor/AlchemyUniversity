@@ -1,0 +1,16 @@
+** These are test keys and phrases that aren't of use anywhere else ** 
+
+private private key: aa153535829de31d961f6a4ecdb4d87c20c9d2bfd0aea32820d6a2a151a93908
+public key: 034005a6f4854e64d605f3bfb1cc86cd3fc0844e24baa5c753c4a4ca305ba5599f
+address: 432a0564ec8f986d2715e2531b6e68ebdb851297
+seed phrase: anxiety tornado rent brain bronze work
+
+private key: d67ec35c31e6e6e217f68781105476327888bf4868d61540e9708bcbc7977402
+public key: 03c759a6b54de3fde6145f60622d0c6d76be09bcb1eeed3738539841ee62e301c1
+address: fe7527909954b177adf8973274f396b1b4a488c4
+seed phrase: game air hazard glad piano fit
+
+private key: c1a4f6d2103ec481b96fe954bc4d3372df92285aeeea2d6a42f74f78fdf5fc36
+public key: 02b5d56f0c039433ffb96c33eab624c0f87d31863194553405c45f2c46326356f8
+address: 3471956cb29dc0a1fce1f2e87b650249ded505aa
+seed phrase: cruel satoshi tag dial journey upon
